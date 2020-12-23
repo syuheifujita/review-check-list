@@ -1,7 +1,7 @@
 ##### Githubのfile change機能を活用する
 ##### formatコマンド
 ##### importコマンド
-##### 改行
+##### 改行（行末、引数の可読性）
 [コードの行末を改行してないとGithubで注意されるのは、editorの設定で防ぐ✏️【Android Studio】](https://qiita.com/syuheifujita/items/960754d0c821f9f6407c)
 ##### string.xmlの参照
 ##### dimen.xmlの参照
